@@ -1,0 +1,7 @@
+2023-04-03 01:07:10.815101 - Initialized conversion of CBT551
+2023-04-03 01:07:10.853388 - Received CBT.V504.FILE551.PDS from FILE551.XMI 
+2023-04-03 01:07:10.855989 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE551.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:07:10.857161 - Found $$$NOTE.txt (text/plain) in CBT.V504.FILE551.PDS, moved to PDS/$$$NOTE
+2023-04-03 01:07:10.858168 - Found @FILE551.txt (text/plain) in CBT.V504.FILE551.PDS, moved to PDS/@FILE551
+2023-04-03 01:07:10.859190 - Found IKJCNXAC.txt (text/plain) in CBT.V504.FILE551.PDS, moved to PDS/IKJCNXAC
+2023-04-03 01:07:10.860146 - Found IKJCNXCI.txt (text/plain) in CBT.V504.FILE551.PDS, moved to PDS/IKJCNXCI
